@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAPI.WebAPI", "NetCoreAPI.WebAPI\NetCoreAPI.WebAPI.csproj", "{439F9A51-B72D-4A36-93EF-9551F77796F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAPI.Entities", "NetCoreAPI.Entities\NetCoreAPI.Entities.csproj", "{438823BE-F9AD-4110-A72E-4979C571EA20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{439F9A51-B72D-4A36-93EF-9551F77796F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{439F9A51-B72D-4A36-93EF-9551F77796F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{439F9A51-B72D-4A36-93EF-9551F77796F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438823BE-F9AD-4110-A72E-4979C571EA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438823BE-F9AD-4110-A72E-4979C571EA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438823BE-F9AD-4110-A72E-4979C571EA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438823BE-F9AD-4110-A72E-4979C571EA20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
